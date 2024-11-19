@@ -27,7 +27,10 @@ This repository is designed to provide beginners with the fundamental concepts a
    
  - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
 
-
+   ## Contact me 
+   -[E-mail].(ibaghouchenejubayuba@gmail.com)
+   -[linkedin].(https://www.linkedin.com/in/juba-ibaghouchene-350b62329/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B5r5z%2BZMYS%2Fyx2J22A4ZJeg%3D%3D)
+   -[instagram].(https://www.instagram.com/juba_ib/)
  
 
    
