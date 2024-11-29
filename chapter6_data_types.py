@@ -1,7 +1,7 @@
 
 #there is 3 data types :
 
-# list : can store inside i all variables types 
+# list : can store inside all variables types 
 # define :
 nbr_list = [1 , 2 ,3]
 print(nbr_list)
@@ -25,7 +25,7 @@ print(nbr_list[1:2])
 # get the index of and element:
 print(nbr_list.index(3))
 
-#check teh existance of an element in a list : use in key word , the output will be a booleen var
+#check teh existance of an element in a list : use "in" key word , the output will be a booleen var
 print(2 in nbr_list)
 print('hello' in nbr_list)
 
@@ -40,18 +40,18 @@ print(nbr_list)
 
     
 #add a list to an other list :
-str_list = ['hi', 'by',"hello"] # if "" used each char is considered as an element , '' all of the str will be considered as a single element 
+str_list = ['hi', 'by',"hello"] # note : if you use : double quots ""  used each char is considered as an element , if you use : single quot '' all of the str will be considered as a single element 
     #basic methode
 str_list += nbr_list    
 print(str_list)
     #using the extend methode
 str_list.extend(nbr_list)
 print(str_list)
-#inserte an elemets in a sertain position in te list :
+#inserte an elemets in a given position in te list :
 nbr_list.insert(0 , '0') # the first position is the index and second is the element 
 print(nbr_list)
 
-# the pop methode gets the first elemnt and delets it from teh list  
+# the pop methode gets the first elemnt and delets it from the list  
 
 #delete a list
 del str_list
